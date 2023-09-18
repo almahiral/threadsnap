@@ -1,8 +1,7 @@
 ==== 1. CLONE THE CODE ====
 
 
-Clone from git repository: https://git.cs.bham.ac.uk/projects-2022-23/axl167
-Or unzip the code submitted
+Clone from git repository: [github.com/almahiral/tweetsnap](https://github.com/almahiral/tweetsnap)
 
 
 ==== 2. INSTALL DEPENDENCIES ====
