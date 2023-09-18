@@ -2,7 +2,7 @@
 
 Anda ingin membaca thread Twitter lebih cepat? Ayo gunakan ThreadSnap!
 
-![image](https://github.com/almahiral/threadsnap/assets/74372506/a7f75012-5493-4f7a-9bb9-ba5856cd6d43)
+![Frame 5173](https://github.com/almahiral/threadsnap/assets/74372506/cdf448cc-d917-4864-9c0b-5ce3d34ce41e)
 
 ThreadSnap adalah website yang dapat merangkum isi dari suatu thread Twitter dalam bahasa Indonesia.
 
