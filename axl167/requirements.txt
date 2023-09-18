@@ -1,0 +1,7 @@
+streamlit==0.76.0
+transformers==4.3.0
+torch
+rouge-score
+indoNLP
+sentence-transformers
+sentencepiece
